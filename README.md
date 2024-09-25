@@ -1,2 +1,2 @@
 # exampledocs
-sample repo for doc examples
+# This sample repo stores a GitHub flow example workflow
